@@ -9,8 +9,16 @@
 }
 
 .text {
-     color: rgb(96, 96, 114);
+     color: rgb(106, 106, 129);
      font-size: 14px;
      font-family:Arial, sans-serif;
      text-align:center;
+}
+
+a:visited {
+    color: rgb(187, 121, 0)
+}
+
+a:link {
+    color: rgb(0, 139, 204)
 }
